@@ -41,8 +41,11 @@
     background-color: rgb(255, 226, 192);
 }
 p {
-    margin-top: -20px;
+    margin-top: 40px;
 }
 img {
     height: 50px;  
+}
+title {
+    color: black;
 }
